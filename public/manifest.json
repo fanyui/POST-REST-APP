@@ -1,0 +1,40 @@
+{
+  "short_name": "Afayi",
+  "name": "Afayi Dev Team #adipster",
+  "icons": [
+    {
+      "src": "Doofensmith.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "brain144.PNG",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+        {
+      "src": "brain.PNG",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+            {
+      "src": "brain32.PNG",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+            {
+      "src": "brain24.PNG",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+            {
+      "src": "brain16.PNG",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#3367D6"
+}
